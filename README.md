@@ -12,6 +12,12 @@ You can control highlighting by highlighting group names.
 
 HiCursorWords : Highlights words under the cursor. 
 
+## Screenshot ##
+
+![Screenshot](https://i.imgur.com/p426Lto.png)
+
+> colorscheme used: `janah`
+
 
 ## Configuration ##
 
