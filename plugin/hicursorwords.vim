@@ -46,7 +46,7 @@ if !exists('g:HiCursorWords_debugEchoHiName')
 endif
 
 
-highlight! link WordUnderTheCursor SpellBad
+" highlight! link WordUnderTheCursor SpellBad
 
 augroup HiCursorWords
     autocmd!
